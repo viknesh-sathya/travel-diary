@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "f2b7",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-12-17T06:13:01.125Z",
+      "notes": "adc",
+      "position": {
+        "lat": "12.97244201057838",
+        "lng": "77.75247573852539"
+      }
+    },
+    {
+      "id": "057e",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-12-17T07:47:21.197Z",
+      "notes": "Buildings buildings everywhere",
+      "position": {
+        "lat": "16.97274101999902",
+        "lng": "78.66210937500001"
+      }
+    },
+    {
+      "id": "dcbd",
+      "cityName": "Bhubaneswar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-14T07:48:42.000Z",
+      "notes": "Amazing place",
+      "position": {
+        "lat": "20.2209657795223",
+        "lng": "85.85266113281251"
+      }
+    }
+  ]
+}
